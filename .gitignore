@@ -55,3 +55,9 @@ ui_*.h
 
 # Vagrant stuff
 .vagrant
+
+# AirSkimmer additions
+.pio/
+managed_components/
+sdkconfig.*
+!sdkconfig.defaults
